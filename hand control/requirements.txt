@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+mediapipe
+pyautogui
+scikit-learn
+numpy
+screen-brightness-control
